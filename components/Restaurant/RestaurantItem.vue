@@ -4,7 +4,7 @@
         class="card card-restaurant"
         >
         <div>
-            <img :src="require(`${product.image}`)" :alt="product.image" class="card-image">
+            <img :src="require(`~/static/${product.image}`)" :alt="product.image" class="card-image">
             <div class="card-text">
                 <div class="card-heading">
                     <h3 class="card-title">{{ product.name }}</h3>
