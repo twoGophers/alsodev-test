@@ -47,7 +47,7 @@ button {
 
 .input-address {
     width: 100%;
-    background-image: url(~/static/img/icon/home.svg);
+    background-image: url(~/static/img/home.svg);
 }
 
 .search {
@@ -56,7 +56,7 @@ button {
 
 .input-search {
     width: 300px;
-    background-image: url(~/static/img/icon/search.svg);
+    background-image: url(~/static/img/search.svg);
 
 }
 
@@ -143,8 +143,8 @@ button {
     width: 24px;
     height: 24px;
     background-color: #fff;
-    -webkit-mask: url("~/static/img/icon/user.svg") no-repeat 50% 50%;
-    mask: url("~/static/img/icon/user.svg") no-repeat 50% 50%;
+    -webkit-mask: url("~/static/img/user.svg") no-repeat 50% 50%;
+    mask: url("~/static/img/user.svg") no-repeat 50% 50%;
     background-repeat: no-repeat;
 }
 
@@ -156,8 +156,8 @@ button {
     width: 24px;
     height: 24px;
     background-color: #595959;
-    -webkit-mask: url("~/static/img/icon/shopping-cart.svg") no-repeat 50% 50%;
-    mask: url("~/static/img/icon/shopping-cart.svg") no-repeat 50% 50%;
+    -webkit-mask: url("~/static/img/shopping-cart.svg") no-repeat 50% 50%;
+    mask: url("~/static/img/shopping-cart.svg") no-repeat 50% 50%;
     background-repeat: no-repeat;
 }
 
@@ -205,19 +205,19 @@ button {
 }
 
 .pizza {
-    background: #fff1b8 url(~/static/img/promo/pizza.png) no-repeat top -100px right -250px / 830px
+    background: #fff1b8 url(~/static/img/pizza.png) no-repeat top -100px right -250px / 830px
 }
 
 .kebab {
-    background: #D6E4FF url(~/static/img/promo/kebab.png) no-repeat top 45px right 40px / 450px;
+    background: #D6E4FF url(~/static/img/kebab.png) no-repeat top 45px right 40px / 450px;
 }
 
 .vegetables {
-    background: #FFF566 url(~/static/img/promo/vegetables.png) no-repeat top 0 right 0 / 825px
+    background: #FFF566 url(~/static/img/vegetables.png) no-repeat top 0 right 0 / 825px
 }
 
 .sushi {
-    background: #FFF1F0 url(~/static/img/promo/sushi.png) no-repeat top 10px right 15px / 500px
+    background: #FFF1F0 url(~/static/img/sushi.png) no-repeat top 10px right 15px / 500px
 }
 
 .promo-title {
@@ -363,7 +363,7 @@ button {
 }
 
 .rating {
-    background-image: url("~/static/img/icon/rating.svg");
+    background-image: url("~/static/img/rating.svg");
     background-repeat: no-repeat;
     background-position: 0 7px;
     padding-left: 20px;
@@ -852,8 +852,8 @@ button {
         width: 24px;
         height: 24px;
         background-color: #fff;
-        -webkit-mask: url(~/static/img/icon/logout.svg) no-repeat 50% 50%;
-        mask: url(~/static/img/icon/logout.svg) no-repeat 50% 50%;
+        -webkit-mask: url(~/static/img/logout.svg) no-repeat 50% 50%;
+        mask: url(~/static/img/logout.svg) no-repeat 50% 50%;
         background-repeat: no-repeat;
         -webkit-mask-size: 20px;
         mask-size: 20px;

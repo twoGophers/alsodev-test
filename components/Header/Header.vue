@@ -2,7 +2,7 @@
     <div class="container">
         <header class="header">
             <nuxt-link to="/" class="logo">
-                <img src="~/static/img/icon/logo.svg" alt="Logo" />
+                <img src="~/static/img/logo.svg" alt="Logo" />
             </nuxt-link>
             <label class="address">
                 <input type="text" class="input input-address" placeholder="Адрес доставки" />
